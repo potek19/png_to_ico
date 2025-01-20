@@ -1,3 +1,5 @@
 venv
 Input/*
+!Input/
 Output/*
+!Output/
