@@ -1,5 +1,9 @@
 venv
 Input/*
 !Input/
+!Input/image1.png
+!Input/image2.png
 Output/*
 !Output/
+!Output/image1.ico
+!Output/image2.ico
